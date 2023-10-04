@@ -1,4 +1,4 @@
---
+---
 name: Deploy Functions to CDF project using OIDC
 on:
   push:
